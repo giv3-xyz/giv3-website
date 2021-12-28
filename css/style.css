@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+
+
+body {
+  width: 100%;
+  height: 100%;
+  background-color: #0E0F2D;
+  font-family: 'Kanit', sans-serif;
+}
