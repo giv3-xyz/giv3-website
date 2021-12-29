@@ -1,6 +1,28 @@
 @font-face {
-  font-family: 'NB-Regular';  
+  font-family: 'NB-Light';  
   src: url('../fonts/NB-International-Pro-Light.ttf')  format('truetype');
+}
+
+@font-face {
+  font-family: 'NB-Regular';  
+  src: url('../fonts/NB-International-Pro-Regular.ttf')  format('truetype');
+}
+
+@font-face {
+  font-family: 'NB-Bold';  
+  src: url('../fonts/NB-International-Pro-Bold.ttf')  format('truetype');
+}
+
+.font-light {
+  font-family:  'NB-Light', sans-serif !important;
+}
+
+.font-normal {
+  font-family:  'NB-Regular', sans-serif !important;
+}
+
+.font-bold {
+  font-family:  'NB-Bold', sans-serif !important;
 }
 
 
